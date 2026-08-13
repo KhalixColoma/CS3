@@ -1,7 +1,7 @@
 # Annex B: Computational Thinking Exercise - Smart Vending Machine
 
 **Section:** Balingkilat  
-**C# / Name:** #8 - Cepillo, Ryan Meiko L.  
+**C# / Name:** #9 - Coloma, Khalix D.    
 **Date:** August 12, 2026
 
 ---

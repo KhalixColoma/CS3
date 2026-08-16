@@ -22,3 +22,62 @@ We believe that algorithm _ is better for large numbers due to _.
 
 ---
 
+**2. Readability**
+Which algorithm is faster when the list of numbers is very large? Why?:
+We believe that algorithm _ is better for large numbers due to _.
+
+| Pseudocode 1 | Pseudocode 2 | 
+|:---|:---|
+| [] Does the algorithm use one loop or two nested loops? | [] Does the algorithm use one loop or two nested loops? |
+| [] Does the algorithm repeat work unnecessarily? | [] Does the algorithm repeat work unnecessarily? | 
+| [] Which algorithm finishes in fewer steps? | [] Which algorithm finishes in fewer steps? |
+
+---
+
+**3. Maintainability**
+Which algorithm is faster when the list of numbers is very large? Why?:
+We believe that algorithm _ is better for large numbers due to _.
+
+| Pseudocode 1 | Pseudocode 2 | 
+|:---|:---|
+| [] Does the algorithm use one loop or two nested loops? | [] Does the algorithm use one loop or two nested loops? |
+| [] Does the algorithm repeat work unnecessarily? | [] Does the algorithm repeat work unnecessarily? | 
+| [] Which algorithm finishes in fewer steps? | [] Which algorithm finishes in fewer steps? |
+
+---
+
+**4. Testability**
+Which algorithm is faster when the list of numbers is very large? Why?:
+We believe that algorithm _ is better for large numbers due to _.
+
+| Pseudocode 1 | Pseudocode 2 | 
+|:---|:---|
+| [] Does the algorithm use one loop or two nested loops? | [] Does the algorithm use one loop or two nested loops? |
+| [] Does the algorithm repeat work unnecessarily? | [] Does the algorithm repeat work unnecessarily? | 
+| [] Which algorithm finishes in fewer steps? | [] Which algorithm finishes in fewer steps? |
+
+---
+
+**5. Security**
+Which algorithm is faster when the list of numbers is very large? Why?:
+We believe that algorithm _ is better for large numbers due to _.
+
+| Pseudocode 1 | Pseudocode 2 | 
+|:---|:---|
+| [] Does the algorithm use one loop or two nested loops? | [] Does the algorithm use one loop or two nested loops? |
+| [] Does the algorithm repeat work unnecessarily? | [] Does the algorithm repeat work unnecessarily? | 
+| [] Which algorithm finishes in fewer steps? | [] Which algorithm finishes in fewer steps? |
+
+---
+
+**6. Final Answer**
+Which algorithm is faster when the list of numbers is very large? Why?:
+We believe that algorithm _ is better for large numbers due to _.
+
+| Pseudocode 1 | Pseudocode 2 | 
+|:---|:---|
+| [] Does the algorithm use one loop or two nested loops? | [] Does the algorithm use one loop or two nested loops? |
+| [] Does the algorithm repeat work unnecessarily? | [] Does the algorithm repeat work unnecessarily? | 
+| [] Which algorithm finishes in fewer steps? | [] Which algorithm finishes in fewer steps? |
+
+---

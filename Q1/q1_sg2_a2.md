@@ -18,9 +18,9 @@ Pseudocode 1 is faster because it only checks each number once, and pseudocode 2
 
 | Pseudocode 1 | Pseudocode 2 | 
 |:---|:---|
-| [] Does the algorithm use one loop or two nested loops? | [] Does the algorithm use one loop or two nested loops? |
-| [] Does the algorithm repeat work unnecessarily? | [] Does the algorithm repeat work unnecessarily? | 
-| [] Which algorithm finishes in fewer steps? | [] Which algorithm finishes in fewer steps? |
+| [] Does the algorithm use one loop or two nested loops? | [x] Does the algorithm use one loop or two nested loops? |
+| [] Does the algorithm repeat work unnecessarily? | [x] Does the algorithm repeat work unnecessarily? | 
+| [x] Which algorithm finishes in fewer steps? | [] Which algorithm finishes in fewer steps? |
 
 ---
 
@@ -30,9 +30,9 @@ Pseudocode 1 is easier to understand. as it keeps the highest number in a clear 
 
 | Pseudocode 1 | Pseudocode 2 | 
 |:---|:---|
-| [] Are variable names meaningful (e.g., max vs. bigger)? | [] Are variable names meaningful (e.g., max vs. bigger)? |
+| [x] Are variable names meaningful (e.g., max vs. bigger)? | [x] Are variable names meaningful (e.g., max vs. bigger)? |
 | [] Is the logic simple or complicated? | [] Is the logic simple or complicated? | 
-| [] Are there fewer lines of code? | [] Are there fewer lines of code? |
+| [x] Are there fewer lines of code? | [] Are there fewer lines of code? |
 
 ---
 
@@ -42,9 +42,9 @@ Pseudocode 1 is much easier to update due to its simplicity, and pseudocode 2 wo
 
 | Pseudocode 1 | Pseudocode 2 | 
 |:---|:---|
-| [] Is the structure straightforward? | [] Is the structure straightforward? |
-| [] Would adding new steps break the code easily? | [] Would adding new steps break the code easily? | 
-| [] Is there less chance of errors when updating? | [] Is there less chance of errors when updating? |
+| [x] Is the structure straightforward? | [] Is the structure straightforward? |
+| [] Would adding new steps break the code easily? | [x] Would adding new steps break the code easily? | 
+| [x] Is there less chance of errors when updating? | [] Is there less chance of errors when updating? |
 
 ---
 
@@ -54,9 +54,9 @@ Pseudocode 1 is easier to test because it is straightforward and logical. Pseudo
 
 | Pseudocode 1 | Pseudocode 2 | 
 |:---|:---|
-| [] Can you test with small lists easily? | [] Can you test with small lists easily? |
-| [] Does the algorithm have fewer conditions to check? | [] Does the algorithm have fewer conditions to check? | 
-| [] Is the output predictable and clear? | [] Is the output predictable and clear? |
+| [x] Can you test with small lists easily? | [] Can you test with small lists easily? |
+| [x] Does the algorithm have fewer conditions to check? | [] Does the algorithm have fewer conditions to check? | 
+| [x] Is the output predictable and clear? | [] Is the output predictable and clear? |
 
 ---
 
@@ -66,9 +66,9 @@ Check if the list is empty and if all items are integers.
 
 | Pseudocode 1 | Pseudocode 2 | 
 |:---|:---|
-| [] Does the algorithm check if the list is empty? | [] Does the algorithm check if the list is empty? |
-| [] Does it handle invalid inputs (like letters instead of numbers)? | [] Does it handle invalid inputs (like letters instead of numbers)? | 
-| [] Does it avoid crashing when inputs are unusual? | [] Does it avoid crashing when inputs are unusual? |
+| [x] Does the algorithm check if the list is empty? | [] Does the algorithm check if the list is empty? |
+| [] Does it handle invalid inputs (like letters instead of numbers)? | [x] Does it handle invalid inputs (like letters instead of numbers)? | 
+| [x] Does it avoid crashing when inputs are unusual? | [] Does it avoid crashing when inputs are unusual? |
 
 ---
 

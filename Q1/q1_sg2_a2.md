@@ -10,9 +10,9 @@
 ---
 # Question with Checklist
 
-**1. Efficiency**
-Which algorithm is faster when the list of numbers is very large? Why?:
-Pseudocode 1 is faster because it only checks each number once, and pseudocode 2 compares every number against each other, making it slower on large lists.
+**1. Efficiency**  
+Which algorithm is faster when the list of numbers is very large? Why?:  
+Pseudocode 1 is faster because it only checks each number once, and pseudocode 2 compares every number against each other, making it slower on large lists.  
 
 ---
 

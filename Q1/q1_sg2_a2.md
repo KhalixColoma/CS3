@@ -12,7 +12,6 @@
 
 **1. Efficiency**
 Which algorithm is faster when the list of numbers is very large? Why?:
-We believe that algorithm _ is better for large numbers due to _.
 
 | Pseudocode 1 | Pseudocode 2 | 
 |:---|:---|
@@ -23,8 +22,7 @@ We believe that algorithm _ is better for large numbers due to _.
 ---
 
 **2. Readability**
-Which algorithm is faster when the list of numbers is very large? Why?:
-We believe that algorithm _ is better for large numbers due to _.
+Which algorithm is easier to understand at first glance? What makes it clearer?:
 
 | Pseudocode 1 | Pseudocode 2 | 
 |:---|:---|
@@ -35,8 +33,7 @@ We believe that algorithm _ is better for large numbers due to _.
 ---
 
 **3. Maintainability**
-Which algorithm is faster when the list of numbers is very large? Why?:
-We believe that algorithm _ is better for large numbers due to _.
+If you had to add a new feature (like finding both max and min), which algorithm would be easier to update? Why?:
 
 | Pseudocode 1 | Pseudocode 2 | 
 |:---|:---|
@@ -47,8 +44,7 @@ We believe that algorithm _ is better for large numbers due to _.
 ---
 
 **4. Testability**
-Which algorithm is faster when the list of numbers is very large? Why?:
-We believe that algorithm _ is better for large numbers due to _.
+Which algorithm is easier to test with different inputs? Why?:
 
 | Pseudocode 1 | Pseudocode 2 | 
 |:---|:---|
@@ -59,8 +55,7 @@ We believe that algorithm _ is better for large numbers due to _.
 ---
 
 **5. Security**
-Which algorithm is faster when the list of numbers is very large? Why?:
-We believe that algorithm _ is better for large numbers due to _.
+Imagine the input list comes from a user. What should the algorithm check to avoid errors or misuse?:
 
 | Pseudocode 1 | Pseudocode 2 | 
 |:---|:---|
@@ -71,8 +66,7 @@ We believe that algorithm _ is better for large numbers due to _.
 ---
 
 **6. Final Answer**
-Which algorithm is faster when the list of numbers is very large? Why?:
-We believe that algorithm _ is better for large numbers due to _.
+Based on your answers from 1 to 5, which one is the better algorithm that you will use to solve the problem of finding the highest number? Why? Summarize your answer:
 
 | Pseudocode 1 | Pseudocode 2 | 
 |:---|:---|

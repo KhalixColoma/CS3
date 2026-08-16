@@ -15,8 +15,10 @@ Which algorithm is faster when the list of numbers is very large? Why?:
 We believe that algorithm _ is better for large numbers due to _.
 
 | Pseudocode 1 | Pseudocode 2 | 
+|:---|:---|
 | [] Does the algorithm use one loop or two nested loops? | [] Does the algorithm use one loop or two nested loops? |
 | [] Does the algorithm repeat work unnecessarily? | [] Does the algorithm repeat work unnecessarily? | 
 | [] Which algorithm finishes in fewer steps? | [] Which algorithm finishes in fewer steps? |
+
 ---
 

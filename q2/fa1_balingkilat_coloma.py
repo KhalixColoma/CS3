@@ -3,23 +3,43 @@ class Publication:
         self.title = str(title)
         self.author = str(author)
     def get_title():
-        print(title)
+        return title
     def get_author():
-        print(author)
-    def set_title():
-        set_title=str(input("Set the ttitle for your book")
-class Book:
-    def __init__(self,title,author,number_of_pages_):
-        self.number_of_pages=int(number_of_pages)
-        self.title = str(title)
-        self.author = str(author)
+        return author
+    def set_title(self, title):
+        self.title = title
+    def set_author(self, author):
+        self.author = author
+    def dipslay_info(self):
+        print(f"Title: {self.title}")
+        print(f"Author: {self.author}")
+class Book(Publication):
+    def __init__(self,title,author,number_of_pages):
+        super().__init__(title, author)
+        self.number_of_pages = int(number_of_pages)
+        Book.setnumber_of_pages(self,pages)
     def get_number_of_pages():
+     return (f"Number of pages: {self.number_of_pages}")
     def set_number_of_pages():
-class Magazine:
+        if self.number_of_pages>0:
+            self.number_of_pages=_number_of_pages
+         else:
+            print("Number of pages must be positive.")
+            self.number_of_pages = abs(self.number_of_pages) 
+class Magazine(Publication):
     def __init__(self,title,author,issue_number):
-        self.issue_number=int(Issue_number)
-        self.title = str(title)
-        self.author = str(author)
+        super().__init__(title, author)
+        self.issue_number=int(issue_number)
+        Magazine.set_issue_number = issue_number
+    def set_issue_number(self,issue_number):
+        if issue_number > 0:
+            self.issue_number = issue_number
+        else:
+            print("Issue Number must be positive.")
+            self.issue_number = abs(self.issue_number)
+    def get_issue_number(self):
+        return f"Issue Number: {self.issue_number}"
+
 
 pub1 = Publication("Journal of Experimental Psychology", "Ratchiff, R. & Van Dongen,H.")
 book1 = Book("The Hobbit, J.R.R. Tolkien", 310)

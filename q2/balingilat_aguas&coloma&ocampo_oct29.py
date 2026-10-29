@@ -1,31 +1,27 @@
-class Bill:
-    amount = 0
-    def __init__(self, amount):
-        self.amount = amount
+class Warrior:
+    def special_move(self):
+        print("Warrior swings a mighty sword!")
 
-    def pay(self, payment):
-        self.amount -= payment.amount
-        print("Paying with", payment.mode)
-        print("Balance:", self.amount)
-    #payment function goes here
 
-class Payment:
-    amount = 0
-    mode = "Cash"
-    def __init__(self, amount):
-        self.amount = amount
+class Mage:
+    def special_move(self):
+        print("Mage casts a powerful spell!")
 
-class Ewallet(Payment):
-    def __init__(self,name,amount):
-        self.mode = name
-        self.amount = amount
 
-bigBeautifulBill = Bill(1000)
-bayad = Payment(900)
-bigBeautifulBill.pay(bayad)
+class Archer:
+    def special_move(self):
+        print("Archer shoots a precise arrow!")
 
-gcash = Ewallet("GCash",67)
-bigBeautifulBill.pay(gcash)
 
-ewallet = Ewallet("PisayCash", 33)
-bigBeautifulBill.pay(ewallet)
+def perform_move(character):
+    character.special_move()
+
+
+warrior = Warrior()
+mage = Mage()
+archer = Archer()
+
+characters = [warrior, mage, archer]
+
+for character in characters:
+    perform_move(character)
